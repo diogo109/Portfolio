@@ -651,6 +651,12 @@ main #home .images-container .img2 img{
     transition: .2s;
     transition-timing-function: ease-out;
 }
+
+#submit_button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
 #contact .container-formulario #submit_button:hover{
     transform: translateY(-5px);
     transition: .2s;
