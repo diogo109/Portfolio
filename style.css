@@ -678,7 +678,7 @@ footer{
 
 /* RESPONSIVIDADE */
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 450px){
     html,
     main{
         width: 100%;
