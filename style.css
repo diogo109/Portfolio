@@ -287,10 +287,13 @@ main #home .images-container .img2 img{
     width: 300px;
     height: 350px;
     border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #about .container-about img{
-    width: 300px;  
+    width: 280px;
 }
 
 #about .container-about .container-description{
